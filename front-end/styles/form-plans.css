@@ -1,0 +1,23 @@
+#description {
+  margin-top: 2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+#description select {
+  border: 2px solid #121212;
+  width: 10rem;
+}
+
+#description p {
+  margin-bottom: 1rem;
+}
+
+#description button {
+  display: block;
+}
+
+#description ul li {
+  text-transform: capitalize;
+}

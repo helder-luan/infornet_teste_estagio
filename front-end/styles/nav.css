@@ -1,0 +1,25 @@
+nav {
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  background-color: #1e212b;
+  padding: 1rem;
+  box-shadow: 0 5px 10px #cecece;
+}
+
+div:first-child {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  margin-right: 1rem;
+  color: #ff8427;
+}
+
+svg {
+  height: 2rem;
+  width: 2rem;
+  fill: #cecece;
+}

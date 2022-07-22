@@ -1,0 +1,35 @@
+#register {
+  display: none;
+  margin-top: 5rem;
+  border: 2px solid #21a0a0;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+#register select {
+  border: 2px solid #21a0a0;
+  width: 100%;
+}
+
+#register label {
+  display: block;
+  margin-top: 1rem;
+}
+
+#register input {
+  border-bottom: 2px solid #21a0a0;
+  outline: none;
+}
+
+#register div input {
+  width: initial;
+  margin-right: 4rem;
+}
+
+#register div label {
+  display: inline;
+}
+
+#register h3 {
+  margin-top: 3rem;
+}
